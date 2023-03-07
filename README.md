@@ -23,6 +23,21 @@
 
 ## Linux相关
 
+## 前端相关
+
+- yarn.lock 文件是如何生成的
+  <details>
+    <summary>Preview</summary>
+    <img src="answers/002.png">
+  </details>
+
+## GitHub相关
+
+- github 如何关闭fork仓库的自动同步
+  <details>
+    <summary>Preview</summary>
+    <img src="answers/003.png">
+  </details>
 ## 写段代码
 
 ## 写篇文章
