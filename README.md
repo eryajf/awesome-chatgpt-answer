@@ -23,6 +23,12 @@
 
 ## Linux相关
 
+- java 编译的 jar 包 在 amd 和 arm 架构中有啥不一样
+  <details>
+    <summary>Preview</summary>
+    <img src="answers/004.png">
+  </details>
+
 ## 前端相关
 
 - yarn.lock 文件是如何生成的
