@@ -28,6 +28,11 @@
     <summary>Preview</summary>
     <img src="answers/004.png">
   </details>
+- docker-compose中的environment环境变量，使用等号赋值和使用冒号赋值有啥不一样
+  <details>
+    <summary>Preview</summary>
+    <img src="answers/005.png">
+  </details>
 
 ## 前端相关
 
