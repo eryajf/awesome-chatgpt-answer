@@ -59,3 +59,8 @@
     <summary>Preview</summary>
     <img src="answers/001.png">
   </details>
+- 请参照 https://wiki.eryajf.net/pages/2bf6c3/ 这篇文章的风格，写一篇介绍 https://github.com/avast/retry-go 这个项目的文章
+  <details>
+    <summary>Preview</summary>
+    <img src="answers/006.png">
+  </details>
