@@ -34,6 +34,11 @@
     <img src="answers/005.png">
   </details>
   这是个反向例子，你可以看到ChatGPT一本正经地讲了一个论点，但实际情况完全不是这样，实际情况是，如果使用等号模式，而赋值的时候，给值加了双引号或者单引号，那么docker-compose解析的时候，会把引号解析为值的一部分，因此建议任何时候都直接使用冒号模式，而不用等号模式。
+- 关于服务器出现大量CLOSE_WAIT与代码之间的关系
+  <details>
+    <summary>Preview</summary>
+    <img src="answers/007.png">
+  </details>
 
 ## 前端相关
 
