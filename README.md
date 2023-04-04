@@ -40,6 +40,15 @@
     <img src="answers/007.png">
   </details>
 
+## Go语言相关
+
+- go语言中，crypto/x509 包中的结构体 Certificate ，其中的字段有哪些，分别表示什么意思
+  <details>
+    <summary>Preview</summary>
+    <img src="answers/003.png">
+  </details>
+  这是一个值得学习的思路，有时候我们看代码的时候，根据结构体的英文不好知道字段都有什么含义，可以这样借助gpt来辅助理解
+
 ## 前端相关
 
 - yarn.lock 文件是如何生成的
